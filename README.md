@@ -6,3 +6,8 @@ In the "rtsp2" image, there is an alarm rule setting window for each set of 10 p
 In the "rtsp3" image, it includes OpenCV for creating 10 points, 10 areas, and 1 line temperature detection.
 
 The source code will only be provided if requested by the interviewer.
+
+## app
+<img src='rtsp1.jpg' width =700>
+<img src='rtsp2.jpg' width =700>
+<img src='rtsp3.jpg' width =700>
